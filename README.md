@@ -4,17 +4,19 @@ The Smart Health Glove is a wearable IoT system designed to assist patients in h
 
 This repository contains the Flutter mobile application for visualizing sensor data, analytics, alerts, and user profile information.
 
-📱 Mobile App Screenshots
-🔹 Splash Screen
-<img src="screenshots/splash.jpg" width="300"/>
-🔹 Home – Real-time Monitoring
-<img src="screenshots/home.jpg" width="300"/>
-🔹 Analytics Dashboard
-<img src="screenshots/analytics.jpg" width="300"/>
-🔹 Notifications
-<img src="screenshots/notifications.jpg" width="300"/>
-🔹 User Profile
-<img src="screenshots/profile.jpg" width="300"/>
+ 📱 Mobile App UI
+
+<p align="center">
+  <img src="screenshots/splash.jpg" width="250" />
+  <img src="screenshots/home.jpg" width="250" />
+  <img src="screenshots/analytics.jpg" width="250" />
+</p>
+
+<p align="center">
+  <img src="screenshots/notifications.jpg" width="250" />
+  <img src="screenshots/profile.jpg" width="250" />
+</p>
+
 ✨ Features
 
 Real-time flex sensor readings
